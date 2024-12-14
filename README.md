@@ -20,7 +20,7 @@
 -   Write a program that simulates 1000 individual battle rounds in Risk.
 -   Create a full series of rounds for armies of arbitary sizes, until one side is wiped out. 
 
-**4. Assignment 6: Weather Knock AIrport**
+**4. Assignment 6: Weather Knock Airport**
 -   Plot temperature, mean temperature each day and mean temperature each month from the csv file using the url provided. 
 -   Plot windspeed, rolling windspeed over 24 hours, max windspeed per day and monthly mean of the daily max windspeeds.
 

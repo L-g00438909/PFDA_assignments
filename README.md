@@ -32,12 +32,27 @@ Data Processing and analysis:
 
 
 -   Pandas: open-source python library built on top of NumPy used for data manipulation and analysis. 
-    -    The CSV datasets were loaded into a pandas dataFrame using ```pd.read_csv()```. The data was cleaned using methods like  ```dropna()``` to remove missing values.  `groupby()` splits data into groups and allowed aggregation of data using mean() etc.
-    -    For time-series analysis, the pandas datetime function was used to process dates and times. `pd.to_datetime()` used to convert string dates into datetime objects. 
+    -    The CSV datasets were loaded into a pandas dataFrame using pd.read_csv(). The data was cleaned using methods like dropna() to remove missing values.  groupby() splits data into groups and allowed aggregation of data using mean() etc.
+    -    For time-series analysis, the pandas datetime function was used to process dates and times. pd.to_datetime() used to convert string dates into datetime objects. 
     
 -   Data Visualisation: Matplotlib: python library used to create plots to display the data graphically. 
 
 ***
+
+
+### Set-up: 
+
+- [Anaconda](https://www.anaconda.com/download) for creating and managing Python environments
+- [Visual Studio Code](https://code.visualstudio.com/download) for editing and running the code.
+
+
+### References:
+
+-   https://pandas.pydata.org/docs/
+-   https://pandas.pydata.org/docs/user_guide/10min.html
+-   https://numpy.org/doc/stable/user/whatisnumpy.html
+-   https://matplotlib.org/stable/index.html
+
 
 
 

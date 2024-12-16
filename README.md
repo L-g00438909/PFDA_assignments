@@ -8,7 +8,7 @@
 
 ### **MODULE: PROGRAMMING FOR DATA ANALYTICS**
 ### 
-***
+
 
 **1.  Assignment 2: Weather**
 -   Plot dry bulb temperature vs time using a Jupyter notebook. 

@@ -22,6 +22,23 @@
 -   Plot temperature, mean temperature each day and mean temperature each month from the csv file using the url provided. 
 -   Plot windspeed, rolling windspeed over 24 hours, max windspeed per day and monthly mean of the daily max windspeeds.
 
+***
+
+
+### Method overview:
+Data Processing and analysis:
+
+-   Jupyter notebook: open source web application used for python coding in real time, text and visualisations. 
+
+
+-   Pandas: open-source python library built on top of NumPy used for data manipulation and analysis. 
+    -    The CSV datasets were loaded into a pandas dataFrame using ```pd.read_csv()```. The data was cleaned using methods like  ```dropna()``` to remove missing values.  `groupby()` splits data into groups and allowed aggregation of data using mean() etc.
+    -    For time-series analysis, the pandas datetime function was used to process dates and times. `pd.to_datetime()` used to convert string dates into datetime objects. 
+    
+-   Data Visualisation: Matplotlib: python library used to create plots to display the data graphically. 
+
+***
+
 
 
 

@@ -4,11 +4,9 @@
 
 
 # **Higher Diploma in Computing: Data Analytics**
+
+### **Module: Programming for Data Analytics**
 ***
-
-### **MODULE: PROGRAMMING FOR DATA ANALYTICS**
-### 
-
 
 **1.  Assignment 2: Weather**
 -   Plot dry bulb temperature vs time using a Jupyter notebook. 
@@ -26,6 +24,4 @@
 
 
 
-#### References:
 
-https://www.geeksforgeeks.org/matplotlib-dates-dateformatter-class-in-python/
